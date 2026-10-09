@@ -1,0 +1,10 @@
+{
+    "name": "testing",
+    "scripts": {
+        "tets": "jest"
+    },
+    "devDependencies": {
+        "jest":"29.0.0"
+    }
+
+}
