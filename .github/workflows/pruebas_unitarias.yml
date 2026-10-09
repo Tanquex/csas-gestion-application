@@ -9,7 +9,7 @@ on:
 
 jobs:
   testear-codigo:
-    runs-on:ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Descargar codigo
         uses: actions/checkout@v4
